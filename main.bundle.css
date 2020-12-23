@@ -7490,6 +7490,7 @@ button.bg-dark:focus {
 .align-items-end {
   -ms-flex-align: end !important;
   align-items: flex-end !important;
+  
 }
 
 .align-items-center {
