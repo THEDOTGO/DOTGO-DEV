@@ -84,6 +84,16 @@ p {
   margin-bottom: 1rem;
 }
 
+.abc{
+  position: relative;
+    float: left;
+    width:  45px;
+  
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
