@@ -2689,6 +2689,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
+  
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -2704,6 +2705,8 @@ textarea.form-control {
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
+
 
 @media (prefers-reduced-motion: reduce) {
   .btn {
@@ -12460,7 +12463,7 @@ hr.to-right:after {
 
 .text-white .btn, .invert .btn {
   color: white;
-  background: none;
+  
   border: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
 .media {
